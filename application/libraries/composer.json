@@ -1,0 +1,5 @@
+{
+    "require": {
+        "gabrielbull/ups-api": "^0.8.0"
+    }
+}
